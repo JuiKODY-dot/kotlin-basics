@@ -7,6 +7,7 @@
 
 
 ## 📂 Структура
+
 kotlin-learning/
 ├── README.md # Описание проекта
 ├── Basics.kt # Урок 1: Типы данных
