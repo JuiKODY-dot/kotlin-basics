@@ -1,4 +1,4 @@
-# 🚀 My Kotlin Learning Progress
+# My Kotlin Learning Progress
 
 ## Here I will save my study files and projects
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Future Plans
+## Future Plans
 
 - [ ] Loops (`for`, `while`)
 - [ ] Functions
@@ -36,4 +36,4 @@
 
 ---
 
-I hope my progress will be useful for you 😊
+I hope my progress will be useful for you
