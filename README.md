@@ -1,37 +1,39 @@
-## Мой прогресс в изучении Kotlin
+# 🚀 My Kotlin Learning Progress
 
-## Здесь я буду сохранять свои учебные файлы и проекты
+## Here I will save my study files and projects
 
-- | 1 | Основы типов данных | `DataTypes.kt` | `val`/`var`, целочисленные типы, `const val` |
-- | 2 | Арифметика и операторы | `Arithmetic.kt` | `+`, `-`, `*`, `/`, `%`, инкремент/декремент, сравнения |
-- | 3 | Строки | `Strings.kt` | Конкатенация, интерполяция, многострочные строки, экранирование |
-- | 4 | **Задача: Секунды в часы и минуты** | `TimeConverter.kt` | Перевод 6480 секунд в формат `часы:минуты:секунды` с ведущими нулями |
-- | 5 | **Задача: Средний балл** | `AverageScore.kt` | Вычисление среднего арифметического, форматирование `%.2f` |****
-- | 6 | **Задача: Расчёт зарплат** | `SalaryCalculator.kt` | Расчёт расходов на постоянных/стажёров, средняя ЗП |
-- | 7 | Сложные проценты | `CompoundInterest.kt` | Формула сложных процентов |
-- | 8 | **Логические операторы** | `LogicalOperators.kt` | `&&`, `!`, `in`, диапазоны |
-- | 9 | **Условные операторы** | `Conditions.kt` | `if`, `else if`, `else`, `when`, ввод данных |
-- | 10 | **Задача: Калькулятор чаевых** | `TipCalculator.kt` | Ввод данных, `when`, `toIntOrNull()`, защита от ошибок |
+| # | Lesson | File | Topic |
+|---|--------|------|-------|
+| 1 | Data Types Basics | `DataTypes.kt` | `val`/`var`, integer types, `const val` |
+| 2 | Arithmetic & Operators | `Arithmetic.kt` | `+`, `-`, `*`, `/`, `%`, increment/decrement, comparisons |
+| 3 | Strings | `Strings.kt` | Concatenation, interpolation, multiline strings, escaping |
+| 4 | **Task: Seconds to Hours & Minutes** | `TimeConverter.kt` | Convert 6480 seconds to `HH:MM:SS` format with leading zeros |
+| 5 | **Task: Average Score** | `AverageScore.kt` | Calculate the arithmetic mean, formatting with `%.2f` |
+| 6 | **Task: Salary Calculation** | `SalaryCalculator.kt` | Calculate expenses for permanent employees and trainees, average salary |
+| 7 | Compound Interest | `CompoundInterest.kt` | Compound interest formula |
+| 8 | **Logical Operators** | `LogicalOperators.kt` | `&&`, `!`, `in`, ranges |
+| 9 | **Conditional Operators** | `Conditions.kt` | `if`, `else if`, `else`, `when`, user input |
+| 10 | **Task: Tip Calculator** | `TipCalculator.kt` | User input, `when`, `toIntOrNull()`, error handling |
+
 ---
 
-##  Планы на будущее
+## 📋 Future Plans
 
-- [ ] Циклы (`for`, `while`)
-- [ ] Функции
+- [ ] Loops (`for`, `while`)
+- [ ] Functions
 - [ ] Null Safety
-- [ ] Коллекции (`List`, `Map`, `Set`)
-- [ ] Классы и объекты
-- [ ] Создать первое Android-приложение 📱
+- [ ] Collections (`List`, `Map`, `Set`)
+- [ ] Classes and Objects
+- [ ] Create my first Android app 📱
 
 ---
 
-##  Инструменты
+## 🛠️ Tools
 
-- Язык: Kotlin
+- Language: Kotlin
 - IDE: IntelliJ IDEA
-- Сборка: Gradle
+- Build Tool: Gradle
 
 ---
 
-
-Надеюсь, мой прогресс будет полезен тебе 
+I hope my progress will be useful for you 😊
