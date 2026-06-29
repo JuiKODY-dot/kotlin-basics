@@ -14,7 +14,7 @@
 | 8 | **Logical Operators** | `LogicalOperators.kt` | `&&`, `!`, `in`, ranges |
 | 9 | **Conditional Operators** | `Conditions.kt` | `if`, `else if`, `else`, `when`, user input |
 | 10 | **Task: Tip Calculator** | `TipCalculator.kt` | User input, `when`, `toIntOrNull()`, error handling |
-| 11 | **Диапазоны и циклы** | `RangesAndLoops.kt` | `..`, `until`, `downTo`, `step`, `for`, `break`, `continue`, `return` |
+| 11 | **Ranges and Loops** | `RangesAndLoops.kt` | `..`, `until`, `downTo`, `step`, `for`, `break`, `continue`, `return` |
 
 ---
 
